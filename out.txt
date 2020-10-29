@@ -1,0 +1,7 @@
+seq1: KKLRTNF_YKY
+seq2: __KKKNFCQCY
+
+seq1: KKLRTNFYKY
+seq2: KNFCQCY
+
+Score: -8
