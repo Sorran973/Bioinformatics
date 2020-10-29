@@ -1,2 +1,2 @@
-# Bioinfprmatics
+# Bioinformatics
 Лабораторные работы по Биоинформатике
